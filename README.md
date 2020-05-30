@@ -23,7 +23,7 @@ Please note that this Gadget has some limitations due to using Yahoo! as the dat
 The installer is in the form of a patch, which will patch your existing [Gadgets](https://github.com/SilverAzide/Gadgets) installation without affecting your existing configuration or layouts. **_The Gadgets suite must be installed for this patch to function properly._**
 
 ## Requirements
-Rainmeter 4.4.0 or later: <https://www.rainmeter.net>.<br>
+Rainmeter 4.3.1 or later: <https://www.rainmeter.net>.<br>
 [Gadgets 5.4.0 or later](https://github.com/SilverAzide/Gadgets). [Download the latest version here](https://github.com/SilverAzide/Gadgets/releases).
 
 ## Attribution

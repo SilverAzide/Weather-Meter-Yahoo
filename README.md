@@ -6,6 +6,8 @@ The Weather Meter for Yahoo Gadget is an alternate Weather Meter for people may 
 
 Please be aware that this Gadget has some limitations due to using Yahoo! as the data source. Use this Weather Meter only if you cannot get Weather Channel-based skins to work on your PC. See the list of regressions below.
 
+**[Download the latest version here (5.4.0)](https://github.com/SilverAzide/Weather-Meter-Yahoo/releases/download/v5.4.0/Weather.Meter.Yahoo.-.Gadgets.Patch_5.4.0.rmskin)**
+
 **NOTE:**<br>
 The installer is in the form of a patch, which will patch your existing [Gadgets](https://github.com/SilverAzide/Gadgets) installation without affecting your existing configuration or layouts. **_The Gadgets suite must be installed for this patch to function properly._**
 
